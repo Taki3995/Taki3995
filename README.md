@@ -1,7 +1,5 @@
 ## Hi, im Antonia 👋
 
-![Bienvenida](https://i.imgur.com/tuImagenBonita.jpg)
-
 Civil Engineering student in Data Science at PUCV, passionate about turning data into smart decisions. I specialize in statistical analysis, machine learning, and Python programming, applying this knowledge to projects with real-world data to solve specific problems. I have educative experience in predictive modeling, database management, and developing algorithms that optimize processes and support strategic decisions. 
 
 ## Technical Skills
