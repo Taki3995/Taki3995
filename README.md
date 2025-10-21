@@ -6,7 +6,7 @@ Civil Engineering student in Data Science at PUCV, passionate about turning data
 - **Programming Languages**: Python, C++, SQL
 - **Libraries**: Pandas, Numpy, Scikit-learn, PyTorch
 - **Tools**: Github, Jupyter Notebooks, Google Colab, Latex, VSCode
-- **Models and Techniques**: Theoretical and practical knowledge in supervised and unsupervised machine learning (regression, classification, clustering), neural networks, support vector machines (SVMs), dimensionality reduction, and association rules.
+- **Models and Techniques**: Theoretical and practical knowledge in supervised and unsupervised machine learning (regression, classification, clustering), neural networks, support vector machines (SVMs), dimensionality reduction, and association rules. Experience in computer vision, specifically in image classification projects.
 Experience in data exploration, cleaning, and transformation, multidimensional visualization, and comprehensive analysis in Python. Knowledge of information retrieval (vector and probabilistic models, inverted indexing, relevance assessment), categorization, and text compression. Design and implementation of relational databases, including conceptual, logical, and physical modeling, normalization, indexing, query processing (DDL/DML), and DBMS fundamentals.
 - **Languages**: Spanish (Native), English B2 (Certified by Cambridge), German (A1 in progress).
 
