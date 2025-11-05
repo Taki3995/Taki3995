@@ -11,7 +11,7 @@ Experience in data exploration, cleaning, and transformation, multidimensional v
 - **Languages**: Spanish (Native), English B2 (Certified by Cambridge), German (A1 in progress).
 
 ## Conect With Me!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/antonia-luengo-1a239b226)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/antonia-luengo-silva)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/taki_inthemoon?igsh=MTNiaGJpZHB0aXJnMQ%3D%3D&utm_source=qr)
 [![Correo](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:antonia.luengo.silva@gmail.com)
 
