@@ -17,17 +17,17 @@ Mi perfil combina la rigurosidad de la **Optimización Avanzada** y la Estadíst
 - **Investigación de Operaciones (Optimización)**:
   - Programación Lineal/Entera (Simplex, Branch & Bound).
   - Metaheurísticas y Búsqueda Local (SA, Genética, Tabú), Decisión Multicriterio (MCDP), Modelado en AMPL.
-- **Ingeniería de Datos**: Procesos ETL, Diseño de Bases de Datos Relacionales (Normalización, Indexing), Optimización de consultas.
-- **Herramientas**: Git/GitHub, VSCode, Docker, Jupyter, Google Colab.
+- **Ingeniería de Datos**: Procesos ETL, Diseño de Bases de Datos Relacionales (Normalización, Indexing), Optimización de consultas, **Automatización de reportes corporativos, Orquestación de tareas (Master-Worker) y Web Scraping (BeautifulSoup/Selenium).**
+- **Herramientas**: Git/GitHub, VSCode, Docker, Jupyter, Google Colab, **Power BI (Visualización de datos operativos) y Excel Avanzado (Power Query, macros y automatización de flujos).**
 - **Redes**: Certificación Cisco CCNA 1 (Fundamentos de redes).
 - **Idiomas**: Español (Nativo), Inglés (B2 - Certificado Cambridge), Alemán (A1).
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=flat&logo=postgresql&logoColor=white) ![AMPL](https://img.shields.io/badge/AMPL-Optimization-red) 
 <br>
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=microsoftpowerbi&logoColor=black)
 <br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-00599C?style=flat&logo=python&logoColor=white)
 
 ## 📚 Portafolio de Proyectos
 
@@ -39,6 +39,8 @@ Mi perfil combina la rigurosidad de la **Optimización Avanzada** y la Estadíst
 | [Predicción de Quiebra Financiera](https://github.com/Taki3995/bankruptcy-probability-factor-detector.git) | Predicción de quiebra corporativa usando ratios financieros. Comparación de Regresión Logística (MLE) vs. Ridge (L2), manejando desbalance de clases con SMOTE. | `Scikit-learn` `Statistics` `SMOTE` |
 | [Predicción de Rendimiento Estudiantil](https://github.com/Taki3995/Tarea-2-EA.git) | Análisis de regresión para predecir notas. Evaluación de modelos Ridge, Random Forest y MLP, seleccionando Ridge por su balance entre error (MSE) e interpretabilidad. | `Python` `Regression` `Data Analysis` |
 | [Interpolación Polinómica (Bolsa)](https://github.com/aleeee1012/Interpolacion-Polinomica-de-Datos-Historicos.git) | Análisis numérico de acciones usando interpolación de Lagrange y Newton. Demostración de la estabilidad de polinomios de bajo grado vs. oscilaciones de alto grado. | `Numerical Methods` `Python` `Math` |
+| **Automatización OPS PCS (Gasvalpo)** | Pipeline ETL que automatiza el reporte de Poder Calorífico Superior. Extrae datos de correos (IMAP), PDFs y Web Scraping, con lógica de "promedio inteligente" para periodos de mantenimiento. | `Python` `ETL` `BeautifulSoup` `pdfplumber` |
+| **Proyector de Camiones GNL** | Sistema de monitoreo y proyección de niveles de estanques satélites. Implementa heurísticas basadas en datos históricos (D vs D-365) y un dashboard interactivo para gestión de contingencias. | `Python` `Heuristics` `Tkinter` `Power BI` |
 
 ## 📊 Estadísticas de GitHub
 <p align="center">
