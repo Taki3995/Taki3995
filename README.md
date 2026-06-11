@@ -33,6 +33,10 @@ Mi perfil combina la rigurosidad de la **Optimización Avanzada** y la Estadíst
 
 ## 📚 Portafolio de Proyectos
 
+> 📌 **Explora mis repositorios curados en detalle:**
+> - 🌟 **[Data Science & Operations Research Showcase](https://github.com/Taki3995/Showcase.git)**: Mi portafolio principal. Un índice detallado con la arquitectura, código fuente y resultados de mis proyectos más significativos.
+> - 🎓 **[Academic Archive & Applied Research](https://github.com/Taki3995/Academic-Archive-and-Applied-Research.git)**: Mi laboratorio de experimentación. Aquí almaceno implementaciones académicas, laboratorios universitarios y proyectos de escala menor.
+
 | Proyecto | Descripción | Tecnologías Clave |
 | :--- | :--- | :--- |
 | **DalliaOS (En Desarrollo)** | Co-desarrollo de un dispositivo de autohospedaje automatizado. Implementa arquitectura local sin fricción y túneles de conexión remota cifrada para gestión de infraestructura digital con privacidad absoluta, eliminando dependencia de nubes. | `Self-Hosting` `Arquitectura Local` `Networking` `Privacy` |
