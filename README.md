@@ -6,33 +6,36 @@ Mi perfil combina la rigurosidad de la **Optimización Avanzada** y la Estadíst
 
 ## 🚀 Habilidades Técnicas
 
-- **Lenguajes y Stack**: Python, C++, SQL, TypeScript, JavaScript, HTML5, CSS3.
+- **Lenguajes y Herramientas**: Python, C++, SQL, TypeScript, JavaScript, HTML5, CSS3, Docker.
 - **Desarrollo Web**: React.js (Vite), Tailwind CSS, Bootstrap, Arquitectura basada en componentes.
 - **Deep Learning e IA**: 
   - **Arquitecturas**: Transformers (NLP y Visión), ResNets, LSTMs, GRUs.
-  - **Técnicas**: Mecanismos de Atención, Transfer Learning, Zero/Few-shot Learning, Prompting.
+  - **Técnicas**: Mecanismos de Atención, Transfer Learning, Zero/Few-shot Learning, Prompting, **Programación Agéntica**.
 - **Data Science y Estadística**: 
   - **Inferencia**: Bayesiana y Frecuentista, Máxima Verosimilitud (MLE), validación Bootstrap/Jackknife.
   - **Análisis**: Métricas de Entropía (Shannon, Permutación), Reducción de Dimensionalidad, Pruebas de Hipótesis.
+  - **Series de Tiempo**: Modelado predictivo avanzado (ARMA, ARIMA, SARIMA).
+  - **Ciencia de Redes**: Modelos de crecimiento (Barabási-Albert), métricas de centralidad, detección de comunidades y análisis de grafos (NetworkX).
 - **Investigación de Operaciones (Optimización)**:
   - Programación Lineal/Entera (Simplex, Branch & Bound).
   - Metaheurísticas y Búsqueda Local (SA, Genética, Tabú), Decisión Multicriterio (MCDP), Modelado en AMPL.
-- **Ingeniería de Datos**: Procesos ETL, Diseño de Bases de Datos Relacionales (Normalización, Indexing), Optimización de consultas, **Automatización de reportes corporativos, Orquestación de tareas (Master-Worker) y Web Scraping (BeautifulSoup/Selenium).**
-- **Herramientas**: Git/GitHub, VSCode, Docker, Jupyter, Google Colab, **Power BI (Visualización de datos operativos) y Excel Avanzado (Power Query, macros y automatización de flujos).**
+- **Ingeniería de Datos**: Procesos ETL, Diseño de Bases de Datos Relacionales (Normalización, Indexing), Optimización de consultas, Automatización de reportes corporativos, Orquestación de tareas (Master-Worker) y Web Scraping (BeautifulSoup/Selenium).
+- **Herramientas**: Git/GitHub, VSCode, Jupyter, Google Colab, Power BI (Visualización de datos operativos) y Excel Avanzado (Power Query, macros y automatización de flujos).
 - **Redes**: Certificación Cisco CCNA 1 (Fundamentos de redes).
 - **Idiomas**: Español (Nativo), Inglés (B2 - Certificado Cambridge), Alemán (A1).
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=flat&logo=postgresql&logoColor=white) ![AMPL](https://img.shields.io/badge/AMPL-Optimization-red) 
 <br>
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=microsoftpowerbi&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![NetworkX](https://img.shields.io/badge/NetworkX-00599C?style=flat&logo=python&logoColor=white)
 <br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-00599C?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=microsoftpowerbi&logoColor=black) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-00599C?style=flat&logo=python&logoColor=white)
 
 ## 📚 Portafolio de Proyectos
 
 | Proyecto | Descripción | Tecnologías Clave |
 | :--- | :--- | :--- |
+| **DalliaOS (En Desarrollo)** | Co-desarrollo de un dispositivo de autohospedaje automatizado. Implementa arquitectura local sin fricción y túneles de conexión remota cifrada para gestión de infraestructura digital con privacidad absoluta, eliminando dependencia de nubes. | `Self-Hosting` `Arquitectura Local` `Networking` `Privacy` |
 | [Optimización Híbrida para CFLP](https://github.com/Taki3995/Single-Multi-Source-CFLP.git) | Algoritmo híbrido (Heurística Tabú + Modelo Exacto) para resolver el problema de localización de instalaciones (CFLP), minimizando costos de transporte y apertura. | `AMPL` `Python` `Heuristics` `Optimization` |
 | [Detección de Melanoma (ViT/ResNet)](https://github.com/Taki3995/Melanoma_Detection.git) | Clasificador binario de imágenes médicas. Implementación de ResNet18 y técnicas de visión. Uso de Optuna para ajuste de hiperparámetros y Data Augmentation robusto. | `PyTorch` `Deep Learning` `ResNet` `Computer Vision` |
 | [Análisis de Sentimiento (Transformer)](https://github.com/Taki3995/Sentiment-Analysis.git) | Modelo Transformer para clasificación de reseñas de IMDB. Construcción desde cero de componentes clave (Tokenizador BPE, Atención Multi-Cabezal). | `Python` `PyTorch` `NLP` `Transformers` |
