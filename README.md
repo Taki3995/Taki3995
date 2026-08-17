@@ -7,24 +7,24 @@ Mi perfil combina la rigurosidad de la Optimización Avanzada y la Estadística 
 ## 🚀 Habilidades Técnicas
 
 - **Ingeniería de Datos y Automatización**: Diseño de Pipelines ETL escalables, Web Scraping (BeautifulSoup/Selenium), diseño de Bases de Datos Relacionales (Normalización, Indexing), orquestación de tareas y automatización de reportes operativos corporativos.
-- **Análisis de Series de Tiempo y Anomalías**[cite: 5]: 
+- **Análisis de Series de Tiempo y Anomalías**: 
   - Pronóstico multivariado y modelado avanzado (AR, MA, ARMA, ARIMA, SARIMA).
   - Implementación de **Modelos Híbridos** (Lineal + No-lineal con Redes Neuronales).
   - Detección de anomalías y diagnóstico predictivo mediante análisis tiempo-frecuencia (Transformada Wavelet Continua - CWT, STFT) y métricas de entropía (Shannon, Renyi).
-- **Ciencia de Redes y Grafos**[cite: 4]:
+- **Ciencia de Redes y Grafos**:
   - Modelos de crecimiento (Barabási-Albert, Erdős–Rényi), robustez multicriterio y métricas de centralidad.
   - Detección de comunidades, análisis de difusión en redes y Graph Neural Networks (GNNs).
-- **Computación Paralela y Distribuida**[cite: 3]: 
+- **Computación Paralela y Distribuida**: 
   - Arquitecturas de sistemas distribuidos, modelos Cliente-Servidor y Master-Worker.
   - Sincronización, exclusión mutua, algoritmos de consenso y comunicación entre procesos (Sockets).
   - Modelos de programación paralela (Hebras, MapReduce, Apache Spark).
-- **Investigación de Operaciones (Optimización)**[cite: 1]:
+- **Investigación de Operaciones (Optimización)**:
   - Programación Lineal/Entera (Simplex, Branch & Bound). Modelado en AMPL.
   - Metaheurísticas y Búsqueda Local (Algoritmos Genéticos, Tabú, SA) y Decisión Multicriterio (MCDP).
-- **Deep Learning e IA**[cite: 1]: 
+- **Deep Learning e IA**: 
   - Arquitecturas: Transformers (NLP y Visión), ResNets, LSTMs, GRUs.
   - Técnicas: Mecanismos de Atención, Transfer Learning, Programación Agéntica.
-- **Desarrollo y Herramientas**: Python, C++, Java, SQL, TypeScript, React.js (Vite). Git/GitHub, Docker, Power BI (Dashboards de contingencia)[cite: 1], y Excel Avanzado.
+- **Desarrollo y Herramientas**: Python, C++, Java, SQL, TypeScript, React.js (Vite). Git/GitHub, Docker, Power BI (Dashboards de contingencia), y Excel Avanzado.
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=flat&logo=postgresql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AMPL](https://img.shields.io/badge/AMPL-Optimization-red) 
