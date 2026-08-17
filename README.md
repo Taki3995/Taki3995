@@ -1,70 +1,55 @@
 # Hola, soy Antonia 👋
 
-Estudiante de **10mo semestre de Ingeniería Civil en Ciencia de Datos** en la PUCV. Aunque mi formación abarca todo el espectro de los datos, mi enfoque principal se encuentra en la **Investigación de Operaciones, el Modelado Predictivo y la Ingeniería de Datos**. No me conformo con predecir el futuro; busco diseñar matemáticamente la mejor decisión posible y automatizar procesos para hacerlos escalables.
+Estudiante de 10mo semestre de Ingeniería Civil en Ciencia de Datos en la PUCV. Aunque mi formación abarca todo el espectro de la ingeniería de datos, mi verdadera pasión se encuentra en la **Investigación de Operaciones y el Modelamiento Matemático**: no me conformo con predecir el futuro, busco diseñar la **mejor decisión posible** y automatizarla.
 
-Mi perfil combina la rigurosidad de la Optimización Avanzada y la Estadística con arquitecturas de **Computación Distribuida** y **Machine Learning**. Mi mayor satisfacción es tomar un problema operativo manual (como lograr reducir un tiempo de procesamiento de 1 hora a 5 minutos) y transformarlo en una solución algorítmica eficiente.
+Mi perfil combina la rigurosidad de la **Optimización Avanzada** y la Estadística con la versatilidad del **Machine Learning** y la **Arquitectura de Sistemas**. Me especializo en transformar procesos manuales y cuellos de botella operativos en arquitecturas eficientes (reduciendo tiempos de ejecución drásticamente). Recientemente, he incorporado el desarrollo **Full Stack** (React/TypeScript) a mi arsenal, con el objetivo de no solo crear los modelos, sino también construir las plataformas que los hacen funcionar en el mundo real.
 
 ## 🚀 Habilidades Técnicas
 
-- **Ingeniería de Datos y Automatización**: Diseño de Pipelines ETL escalables, Web Scraping (BeautifulSoup/Selenium), diseño de Bases de Datos Relacionales (Normalización, Indexing), orquestación de tareas y automatización de reportes operativos corporativos.
-- **Análisis de Series de Tiempo y Anomalías**: 
-  - Pronóstico multivariado y modelado avanzado (AR, MA, ARMA, ARIMA, SARIMA).
-  - Implementación de **Modelos Híbridos** (Lineal + No-lineal con Redes Neuronales).
-  - Detección de anomalías y diagnóstico predictivo mediante análisis tiempo-frecuencia (Transformada Wavelet Continua - CWT, STFT) y métricas de entropía (Shannon, Renyi).
-- **Ciencia de Redes y Grafos**:
-  - Modelos de crecimiento (Barabási-Albert, Erdős–Rényi), robustez multicriterio y métricas de centralidad.
-  - Detección de comunidades, análisis de difusión en redes y Graph Neural Networks (GNNs).
-- **Computación Paralela y Distribuida**: 
-  - Arquitecturas de sistemas distribuidos, modelos Cliente-Servidor y Master-Worker.
-  - Sincronización, exclusión mutua, algoritmos de consenso y comunicación entre procesos (Sockets).
-  - Modelos de programación paralela (Hebras, MapReduce, Apache Spark).
+- **Lenguajes y Herramientas**: Python, C++, SQL, Java, TypeScript, JavaScript, HTML5, CSS3, Docker, Git.
+- **Data Science e IA (Machine & Deep Learning)**: 
+  - **Arquitecturas**: Transformers (NLP y Visión), ResNets, LSTMs, GRUs.
+  - **Técnicas**: Mecanismos de Atención, Transfer Learning, Zero/Few-shot Learning, Programación Agéntica.
+  - **Estadística**: Inferencia Bayesiana y Frecuentista, Máxima Verosimilitud (MLE), Validación Bootstrap/Jackknife.
+- **Series de Tiempo y Procesamiento de Señales**: 
+  - Modelado predictivo avanzado (ARIMA, SARIMA, Modelos Híbridos Lineal/No-Lineal).
+  - Análisis tiempo-frecuencia (STFT, Wavelets CWT), Transformada de Hilbert, Filtros iterativos de Fourier.
+  - Métricas de Entropía (Shannon espectral, Permutación) para detección de anomalías.
 - **Investigación de Operaciones (Optimización)**:
-  - Programación Lineal/Entera (Simplex, Branch & Bound). Modelado en AMPL.
-  - Metaheurísticas y Búsqueda Local (Algoritmos Genéticos, Tabú, SA) y Decisión Multicriterio (MCDP).
-- **Deep Learning e IA**: 
-  - Arquitecturas: Transformers (NLP y Visión), ResNets, LSTMs, GRUs.
-  - Técnicas: Mecanismos de Atención, Transfer Learning, Programación Agéntica.
-- **Desarrollo y Herramientas**: Python, C++, Java, SQL, TypeScript, React.js (Vite). Git/GitHub, Docker, Power BI (Dashboards de contingencia), y Excel Avanzado.
+  - Programación Lineal/Entera (Simplex, Branch & Bound).
+  - Metaheurísticas y Búsqueda Local (SA, Genética, Tabú).
+  - Decisión Multicriterio (MCDP) y Modelado Matemático en AMPL.
+- **Ciencia de Redes**: Modelos de crecimiento (Barabási-Albert), Métricas de centralidad, Detección de comunidades, Análisis de robustez y Redes Neuronales de Grafos (GNNs).
+- **Concurrencia y Sistemas Distribuidos**: Sincronización de hilos, Algoritmos de Exclusión Mutua, Prevención de Deadlocks (Problema de Filósofos Comensales), Arquitectura Master-Worker.
+- **Ingeniería y Visualización de Datos**: 
+  - Pipelines ETL, Diseño de Bases de Datos Relacionales (Normalización, Indexing).
+  - Web Scraping (BeautifulSoup/Selenium), Análisis Exploratorio y Visualización Multidimensional.
+  - Herramientas: Power BI, Excel Avanzado (Power Query).
 
 ## 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=flat&logo=postgresql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AMPL](https://img.shields.io/badge/AMPL-Optimization-red) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=flat&logo=postgresql&logoColor=white) ![AMPL](https://img.shields.io/badge/AMPL-Optimization-red) 
 <br>
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![NetworkX](https://img.shields.io/badge/NetworkX-00599C?style=flat&logo=python&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![NetworkX](https://img.shields.io/badge/NetworkX-00599C?style=flat&logo=python&logoColor=white)
 <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=microsoftpowerbi&logoColor=black) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-00599C?style=flat&logo=python&logoColor=white)
 
-## 📚 Portafolio de Proyectos Destacados
+## 📚 Portafolio de Proyectos
 
 > 📌 **Explora mis repositorios curados en detalle:**
-> - 🌟 **[Showcase](https://github.com/Taki3995/Showcase)**: Mi portafolio principal con la arquitectura y resultados de mis proyectos más significativos.
-> - 🎓 **[Academic Archive & Applied Research](https://github.com/Taki3995/Academic-Archive-and-Applied-Research)**: Mi laboratorio de experimentación (laboratorios, implementaciones de algoritmos y papers).
+> - 🌟 **[Data Science & Operations Research Showcase](https://github.com/Taki3995/Showcase.git)**: Mi portafolio principal. Un índice detallado con la arquitectura, código fuente y resultados de mis proyectos más significativos.
+> - 🎓 **[Academic Archive & Applied Research](https://github.com/Taki3995/Academic-Archive-and-Applied-Research.git)**: Mi laboratorio de experimentación. Aquí almaceno implementaciones académicas, laboratorios universitarios y proyectos de escala menor.
 
-### 📈 Series de Tiempo, Anomalías y Optimización
 | Proyecto | Descripción | Tecnologías Clave |
 | :--- | :--- | :--- |
-| **[Diagnóstico de Fallos y Anomalías (CWRU)](https://github.com/Taki3995/cwru-bearing-fault-diagnosis)** | Implementación de análisis tiempo-frecuencia (Transformada Wavelet Continua y STFT) para la detección de patrones irregulares y diagnóstico predictivo de fallos industriales. | `Python` `Wavelet` `STFT` `Time-Series` |
-| **[Pronóstico Híbrido Multivariado](https://github.com/Taki3995/SARIMA-vs-FourierArima)** | Análisis comparativo entre modelos autorregresivos tradicionales (SARIMA/ARIMA) y modelos avanzados (Fourier) para el pronóstico de series de tiempo. | `Python` `SARIMA` `Statsmodels` |
-| **[Optimización Híbrida para Instalaciones (CFLP)](https://github.com/Taki3995/Single-Multi-Source-CFLP)** | Algoritmo híbrido (Heurística Tabú + Modelo Exacto) para resolver el problema de localización de instalaciones, minimizando costos de transporte y apertura. | `AMPL` `Python` `Heuristics` `Optimization` |
-
-### 🕸️ Ciencia de Redes y Sistemas Distribuidos
-| Proyecto | Descripción | Tecnologías Clave |
-| :--- | :--- | :--- |
-| **[Análisis de Robustez Multicriterio en Redes](https://github.com/Taki3995/Multi-criteria-robustness-analysis-of-metro-networks)** | Estudio topológico y de robustez. Evaluación de la resiliencia de la red frente a fallos dirigidos y aleatorios utilizando métricas de centralidad. | `NetworkX` `Graphs` `Data Science` |
-| **[Modelos de Difusión en Redes](https://github.com/Taki3995/Replicacion-de-Modelos-de-Difusion-en-Redes)** | Simulación y análisis algorítmico del comportamiento de propagación de información y contagio dentro de estructuras de redes complejas. | `Python` `Network Science` `Simulation` |
-| **[Concurrencia: Filósofos Comensales](https://github.com/Taki3995/Problema-Filosofos-Comensales)** | Resolución clásica de problemas de sincronización en computación distribuida y paralela, manejando exclusión mutua y prevención de deadlocks. | `C++` `Mutex` `Distributed Systems` |
-
-### ⚙️ Automatización ETL e Ingeniería de Datos
-| Proyecto | Descripción | Tecnologías Clave |
-| :--- | :--- | :--- |
-| **[Pipeline ETL Operativo - PCS (Gasvalpo)](https://github.com/Taki3995/Automatizacion-PCS)** | Arquitectura ETL que reduce el procesamiento de datos de 1 hora a 5 minutos. Extrae datos vía IMAP, Web Scraping y lectura de PDFs, manejando fallbacks para continuidad operativa. | `Python` `ETL` `BeautifulSoup` `pdfplumber` |
-| **[Proyector Predictivo de GNL](https://github.com/Taki3995/Automatizacion_Camiones)** | Sistema de monitoreo y proyección de niveles de estanques. Implementa heurísticas históricas, sistematizando el preprocesamiento para visualización en Power BI. | `Python` `Predictive Modeling` `Data Engineering` |
-
-### 🧠 Deep Learning y Machine Learning
-| Proyecto | Descripción | Tecnologías Clave |
-| :--- | :--- | :--- |
-| **[Detección de Melanoma (ViT/ResNet)](https://github.com/Taki3995/Melanoma_Detection)** | Clasificador binario de imágenes médicas usando ResNet18. Implementa Data Augmentation robusto y optimización de hiperparámetros con Optuna. | `PyTorch` `Deep Learning` `ResNet` `Computer Vision` |
-| **[Análisis de Sentimiento (Transformer)](https://github.com/Taki3995/Sentiment-Analysis)** | Modelo Transformer para clasificación de reseñas. Construcción desde cero de componentes clave (Tokenizador BPE, Atención Multi-Cabezal). | `Python` `PyTorch` `NLP` `Transformers` |
-| **[Predicción de Quiebra Financiera](https://github.com/Taki3995/bankruptcy-probability-factor-detector)** | Predicción de riesgo usando ratios corporativos. Comparación de Regresión Logística (MLE) vs. Ridge, manejando desbalance de clases con SMOTE. | `Scikit-learn` `Statistics` `SMOTE` |
+| [Predicción de Quiebra Financiera](https://github.com/Taki3995/bankruptcy-probability-factor-detector.git) | Predicción de quiebra corporativa en dataset altamente desbalanceado. Implementación de Regresión Ridge/Logística con validación Bootstrap y SMOTE, **elevando el AUC de 0.59 a 0.94** tras resolver problemas de convergencia. | `Python` `Scikit-learn` `SMOTE` `Statistics` |
+| [Detección de Anomalías Industriales (CWRU)](https://github.com/Taki3995/cwru-bearing-fault-diagnosis.git) | Algoritmo DSP puro para diagnóstico de fallos en rodamientos sin ML de caja negra. Uso de Filtros de Fourier, Transformadas de Hilbert y Entropía de Shannon espectral para evadir ruido rotacional. | `NumPy` `SciPy` `DSP` `Data Analysis` |
+| [Optimización Híbrida para CFLP](https://github.com/Taki3995/Single-Multi-Source-CFLP.git) | Algoritmo híbrido (Heurística Tabú + Modelo Exacto) para resolver el problema de localización de instalaciones (Single/Multi-Source) en matrices de hasta 5000x5000, minimizando costos logísticos. | `AMPL` `Python` `Heuristics` `Gurobi` |
+| [SARIMA vs Fourier-ARIMA](https://github.com/Taki3995/SARIMA-vs-FourierArima.git) | Pronóstico multi-paso de series de tiempo no estacionarias. Implementación algebraica estricta (OLS) sin librerías externas para estimar coeficientes y evaluar rendimiento (mNSE/MAPE) y ruido residual. | `Python` `NumPy` `Time Series` `Math` |
+| **Automatización OPS PCS (Gasvalpo)** | Pipeline ETL que **redujo tiempos operativos de 1 hora a 5 minutos**. Extrae datos de correos (IMAP), PDFs y Web Scraping, con lógica de "promedio inteligente" para periodos de mantenimiento. | `Python` `ETL` `Web Scraping` `Automation` |
+| **Proyector de Demanda GNL (Gasvalpo)** | Sistema de monitoreo y proyección de niveles satélites. Replicación de heurísticas humanas de toma de decisión en código, eliminando el trabajo manual en Excel. | `Python` `Heuristics` `Power BI` `Tkinter` |
+| [Detección de Melanoma (ViT/ResNet)](https://github.com/Taki3995/Melanoma_Detection.git) | Clasificador binario de imágenes médicas. Uso de ResNet18 con Fine-Tuning y K-Fold Cross Validation. Análisis profundo sobre Data Augmentation y mitigación de sobreajuste. | `PyTorch` `Deep Learning` `ResNet` |
+| **DalliaOS (En Desarrollo)** | Co-desarrollo de un dispositivo de autohospedaje automatizado. Implementa arquitectura local sin fricción y túneles de conexión cifrada, eliminando la dependencia de servicios en la nube. | `Self-Hosting` `Networking` `Privacy` |
+| [Análisis de Sentimiento (Transformer)](https://github.com/Taki3995/Sentiment-Analysis.git) | Modelo Transformer para clasificación de reseñas de IMDB. Construcción desde cero de componentes clave (Tokenizador BPE, Atención Multi-Cabezal). | `Python` `PyTorch` `NLP` `Transformers` |
 
 ## 📊 Estadísticas de GitHub
 <p align="center">
